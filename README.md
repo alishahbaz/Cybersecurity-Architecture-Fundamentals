@@ -15,15 +15,15 @@ This package focuses on the **fundamentals**.
 
 You will learn the five security principles you should **always** observe:
 
-- [Defense in Depth](Defense-in-Depth)
-- [Least Privilege](Least-Privilege)
-- [Separation of Duties](Separation-of-Duties)
-- [Secure by Design](Secure-by-Design)
+- [Defense in Depth](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Defense-in-Depth)
+- [Least Privilege](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Least-Privilege)
+- [Separation of Duties](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Separation-of-Duties)
+- [Secure by Design](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Secure-by-Design)
 - [KISS](KISS)
 
 And the one principle you should **never** rely on:
 
-- [Security by Obscurity](Security-by-Obscurity)
+- [Security by Obscurity](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Security-by-Obscurity)
 
 ## Why These Principles Matter
 
@@ -38,13 +38,13 @@ That is why strong security architecture is based on **multiple, layered, and pr
 
 ## Wiki Contents
 
-- [Security Principles](Security-Principles)
-- [Defense in Depth](Defense-in-Depth)
-- [Least Privilege](Least-Privilege)
-- [Separation of Duties](Separation-of-Duties)
-- [Secure by Design](Secure-by-Design)
-- [KISS](KISS)
-- [Security by Obscurity](Security-by-Obscurity)
+- [Security Principles](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Security-Principles)
+- [Defense in Depth](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Defense-in-Depth)
+- [Least Privilege](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Least-Privilege)
+- [Separation of Duties](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Separation-of-Duties)
+- [Secure by Design](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Secure-by-Design)
+- [KISS](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/KISS)
+- [Security by Obscurity](https://github.com/alishahbaz/Cybersecurity-Architecture-Fundamentals/wiki/Security-by-Obscurity)
 
 ## Simple Mental Model
 
