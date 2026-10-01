@@ -73,7 +73,7 @@ Security is not just a tool.
 It is a way of thinking.
 
 ## Series in Sequence
-- [CIA] (https://github.com/alishahbaz/Cybersecurity-Architecture-Series)
+- [CIA]](https://github.com/alishahbaz/Cybersecurity-Architecture-Series)
 - [Architecture](https://github.com/alishahbaz/Cybersecurity-Architecture)
 - [IAM](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM)
 - [Endpoint Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Endpoint-Security)
