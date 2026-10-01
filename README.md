@@ -1,4 +1,4 @@
-# 01 Cybersecurity Fundamentals
+# 01 Cybersecurity - Fundamentals
 
 This wiki provides an easy-to-read reference for fundamental cybersecurity architecture principles.
 
