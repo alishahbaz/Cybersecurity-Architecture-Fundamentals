@@ -1,6 +1,4 @@
-# File: README.md
-
-# Cybersecurity Architecture Fundamentals
+# 01 Cybersecurity Architecture Fundamentals
 
 This wiki provides an easy-to-read reference for fundamental cybersecurity architecture principles.
 
