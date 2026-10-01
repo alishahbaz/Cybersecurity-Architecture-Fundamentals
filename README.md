@@ -71,3 +71,14 @@ This wiki is useful for:
 
 Security is not just a tool.  
 It is a way of thinking.
+
+## Series in Sequence
+- [CIA] (https://github.com/alishahbaz/Cybersecurity-Architecture-Series)
+- [Architecture](https://github.com/alishahbaz/Cybersecurity-Architecture)
+- [IAM](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM)
+- [Endpoint Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Endpoint-Security)
+- [Network Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Network-Security)
+- [Application Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security)
+- [Data Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Data-Security)
+- [Dtetction](https://github.com/alishahbaz/Cybersecurity-Architecture-Detection)
+- [Response](https://github.com/alishahbaz/Cybersecurity-Architecture-Response)
